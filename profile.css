@@ -1,0 +1,98 @@
+*{
+    margin:0px;
+    padding :0px;
+
+}
+body{
+    background-image: url('../images/b.jpg');
+    background-size: cover;
+    background-position: fixed;
+}
+header{
+    margin-right:0%;
+    height: 40px;
+    width: auto;
+
+}
+nav a{
+    text-decoration: none;
+    color: white;
+    border: 1px solid white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif';
+    padding: 8px;
+
+
+}
+nav a:hover{
+    background-color: teal;
+    color: black;
+}
+aside{
+    border: 300px ;
+    color:black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin:180px;
+    margin right: 80%;
+    float :right;
+    
+}
+.head{
+    padding:right 0%;
+    margin-right: 50%;
+    height: 18px;
+    width: 10px;
+    float: inline-start;    
+}
+#logo{
+    padding-left: 5%;
+    margin-top: 30px;
+    img {
+        border-radius: 50%;
+      }
+}
+form{
+    float:right;
+    border: 2px solid rgb(228, 220, 220) ;
+    
+    background-color:beige;
+    margin-top: 10px;
+    margin-right: 180px;
+    
+    padding: 1px;
+    height :17em;
+    padding-bottom:10px;
+
+}
+form h2{
+    text-align: center;
+
+}
+form button{
+    width: 100%;
+    background-color: rgb(219, 234, 234);
+    border: none;
+    padding: 2px;
+    color: rgb(10, 9, 9);
+}
+.container{
+    margin-top: 25%;
+    border:2px solid rgb(241, 236, 236) ;
+}
+.container div{
+    border: 1px solid white;
+    float:left;
+    height:13em;
+    width:23%;
+    margin right:5px;
+    background color: feSpotLight;
+    text-align:left;
+}
+.contanier h4{
+    text-align: center; 
+}
+nav{
+    float: right;
+    margin-top:0%;
+    margin-right: 50px;
+}
+
